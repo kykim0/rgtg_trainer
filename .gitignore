@@ -1,0 +1,7 @@
+wandb/
+__pycache__
+/.DS_Store
+*.log
+checkpoints/
+gpt_eval.ipynb
+gpt_eval/
